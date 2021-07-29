@@ -1,0 +1,70 @@
+body{
+    background-color: #4ab74a;
+ 
+}
+
+.content{
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 2%;
+    padding-left: 10%;
+    width: 600px;
+    background-color: #ffffff;
+    background-size: contain;
+}
+
+.bio{
+    font-size:  25px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #d6dadc;
+  
+}
+
+.txt{
+    height: 25px;
+}
+
+.add{
+    width: 100px;
+    height: 25px;
+    margin-left: 3%;
+    background-color: #0191df;
+    border-color:#0191df;
+    color: white;
+    border-radius: 20px;
+
+    
+}
+
+input{
+    height: 30px;
+    margin-left: 3%; 
+}
+
+.Clear{    
+    width: 150px;   
+    background-color: #0191df;
+    border-color:#0191df;
+    color: white;
+    border-radius: 20px;
+
+}
+
+.empty{
+    width: 100px;   
+    background-color:#a3171b;
+    border-color:#a3171b;
+    color: white;
+    border-radius: 20px;
+
+}
+
+.save{
+    width: 100px;   
+    background-color:#4ab64f;
+    border-color:#4ab64f;
+    color: white;
+    border-radius: 20px;
+  
+}
